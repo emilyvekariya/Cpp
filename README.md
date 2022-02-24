@@ -61,3 +61,8 @@ unary operator overloading
 pre and post
 
 friend unary function
+
+
+**Day 8:**
+
+new operator and delete operator 
